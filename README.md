@@ -42,7 +42,7 @@ Open the local URL provided by Vite to access the dashboard.
 
 ## Live Demo
 
-[View the Dashboard](https://github.com/LinaDiaf/Dashboard-BI)
+[Open the Dashboard](https://dashbordbi.vercel.app)
 
 ## Repository
 
